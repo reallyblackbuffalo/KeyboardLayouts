@@ -497,11 +497,11 @@
     },
     {
       "command": "mouse.speed",
-      "data": "20"
+      "data": "7"
     },
     {
       "command": "mouse.speedDelay",
-      "data": "2"
+      "data": "10"
     },
     {
       "command": "mouse.accelSpeed",
