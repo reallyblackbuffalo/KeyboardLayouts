@@ -477,7 +477,7 @@
     },
     {
       "command": "idleleds.time_limit",
-      "data": "300"
+      "data": "600"
     },
     {
       "command": "idleleds.wireless",
@@ -501,7 +501,7 @@
     },
     {
       "command": "mouse.speedDelay",
-      "data": "10"
+      "data": "2"
     },
     {
       "command": "mouse.accelSpeed",
