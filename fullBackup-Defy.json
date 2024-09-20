@@ -88,30 +88,6 @@
         ],
         "name": "Hold to L1",
         "id": 3
-      },
-      {
-        "actions": [
-          299,
-          0,
-          0,
-          2347,
-          0
-        ],
-        "name": "[Shift] Ctrl Tab",
-        "id": 4,
-        "superkey": ""
-      },
-      {
-        "actions": [
-          555,
-          0,
-          0,
-          2603,
-          0
-        ],
-        "name": "[Shift] Alt Tab",
-        "id": 5,
-        "superkey": ""
       }
     ],
     "device": {
@@ -445,7 +421,7 @@
     },
     {
       "command": "superkeys.map",
-      "data": "262 281 2329 283 1 0 17152 17154 1 1 1 0 1 17498 1 1 1 0 1 17492 1 1 1 0 0"
+      "data": "262 281 2329 283 1 0 17152 17154 1 1 1 0 1 17498 1 1 1 0 1 17492 1 1 1 0 17494 17452 1 1 1 0 0"
     },
     {
       "command": "superkeys.waitfor",
