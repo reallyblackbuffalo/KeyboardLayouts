@@ -429,7 +429,7 @@
     },
     {
       "command": "superkeys.timeout",
-      "data": "350"
+      "data": "250"
     },
     {
       "command": "superkeys.repeat",
