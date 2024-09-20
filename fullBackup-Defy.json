@@ -381,7 +381,7 @@
     },
     {
       "command": "superkeys.waitfor",
-      "data": "276"
+      "data": "500"
     },
     {
       "command": "superkeys.timeout",
@@ -405,15 +405,15 @@
     },
     {
       "command": "led.brightnessUG",
-      "data": "255"
+      "data": "153"
     },
     {
       "command": "led.brightness.wireless",
-      "data": "125"
+      "data": "25.5"
     },
     {
       "command": "led.brightnessUG.wireless",
-      "data": "125"
+      "data": "25.5"
     },
     {
       "command": "palette",
