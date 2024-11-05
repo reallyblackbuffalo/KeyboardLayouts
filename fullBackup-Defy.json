@@ -509,7 +509,7 @@
     },
     {
       "command": "mouse.speed",
-      "data": "0"
+      "data": "1"
     },
     {
       "command": "mouse.speedDelay",
