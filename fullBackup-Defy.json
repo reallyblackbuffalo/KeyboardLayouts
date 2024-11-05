@@ -513,15 +513,15 @@
     },
     {
       "command": "mouse.speedDelay",
-      "data": "10"
+      "data": "2"
     },
     {
       "command": "mouse.accelSpeed",
-      "data": "20"
+      "data": "30"
     },
     {
       "command": "mouse.accelDelay",
-      "data": "2"
+      "data": "600"
     },
     {
       "command": "mouse.wheelSpeed",
